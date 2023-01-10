@@ -1,0 +1,96 @@
+,County,FIPS,Met Objective of 45.5? (1),Age-Adjusted Death Rate,Lower 95% Confidence Interval for Death Rate,Upper 95% Confidence Interval for Death Rate,Average Deaths per Year,Recent Trend (2),Recent 5-Year Trend (2) in Death Rates,Lower 95% Confidence Interval for Trend,Upper 95% Confidence Interval for Trend
+0,United States,0,No,46,45.9,46.1,"157,376",falling,-2.4,-2.6,-2.2
+3,"North Slope Borough, Alaska",2185,No,124.9,73,194.7,5,**,**,**,**
+18,"Nome Census Area, Alaska",2180,No,96.1,61.4,141.6,6,**,**,**,**
+111,"Walker County, Alabama",1127,No,79.8,71.6,88.7,71,stable,-0.1,-0.9,0.7
+161,"Kodiak Island Borough, Alaska",2150,No,76.2,47.9,113.1,6,**,**,**,**
+243,"Lamar County, Alabama",1075,No,72.2,56.8,91.1,15,stable,1.3,-0.2,2.8
+250,"Covington County, Alabama",1039,No,71.9,62.1,83.1,39,stable,1,-0.3,2.3
+271,"Geneva County, Alabama",1061,No,71.2,59.6,84.7,27,stable,-0.7,-1.9,0.6
+277,"Ketchikan Gateway Borough, Alaska",2130,No,70.8,50.1,96.7,9,**,**,**,**
+308,"Lawrence County, Alabama",1079,No,70,58.8,82.8,29,stable,1.1,-0.1,2.3
+312,"Winston County, Alabama",1133,No,69.9,57.8,84.2,24,stable,0.1,-1.1,1.3
+342,"Clay County, Alabama",1027,No,69.1,53.1,88.9,13,rising,2.2,0.4,4
+347,"Coosa County, Alabama",1037,No,68.9,51.6,91,11,stable,-0.8,-2.6,1.1
+383,"Bibb County, Alabama",1007,No,67.8,54,84.1,17,stable,0.3,-1.4,2.1
+392,"Etowah County, Alabama",1055,No,67.7,61.5,74.4,90,stable,0.2,-0.4,0.8
+421,"Escambia County, Alabama",1053,No,67,56.9,78.4,32,stable,-0.5,-1.3,0.2
+435,"Marshall County, Alabama",1095,No,66.6,60,73.8,75,falling,-3,-5.4,-0.5
+458,"Elmore County, Alabama",1051,No,66.1,58.3,74.7,55,stable,-0.3,-1.1,0.6
+464,"Chilton County, Alabama",1021,No,66,56.3,76.9,34,stable,0.7,-0.5,1.9
+473,"Franklin County, Alabama",1059,No,65.8,54.7,78.6,25,stable,0.4,-0.9,1.7
+492,"Dallas County, Alabama",1047,No,65.3,55.6,76.3,33,stable,0.3,-0.6,1.3
+493,"Washington County, Alabama",1129,No,65.3,50.5,83.4,14,stable,-0.2,-2,1.7
+509,"St. Clair County, Alabama",1115,No,65,57.7,72.9,61,falling,-1.2,-2.2,-0.1
+563,"Russell County, Alabama",1113,No,64,55.1,74,38,falling,-1.2,-2.3,-0.2
+564,"Jackson County, Alabama",1071,No,64,55.9,73.1,46,stable,-0.5,-1.6,0.7
+578,"Dale County, Alabama",1045,No,63.6,54.6,73.7,37,stable,0.4,-0.7,1.5
+592,"Mobile County, Alabama",1097,No,63.3,60,66.7,289,falling,-1.2,-1.6,-0.8
+602,"Chambers County, Alabama",1017,No,63.1,53.1,74.7,29,stable,0,-1.1,1
+681,"Wilcox County, Alabama",1131,No,61.7,44.7,83.4,9,stable,0.9,-1.3,3.1
+692,"Cullman County, Alabama",1043,No,61.4,54.7,68.7,63,stable,-0.4,-1.3,0.4
+695,"Barbour County, Alabama",1005,No,61.3,49.6,75,20,stable,0.5,-1.2,2.2
+701,"Colbert County, Alabama",1033,No,61.2,53.4,69.8,46,falling,-1.4,-2.1,-0.6
+709,"Talladega County, Alabama",1121,No,61,54.2,68.4,61,stable,-0.6,-1.6,0.4
+720,"Valdez-Cordova Census Area, Alaska",2261,No,60.8,35.1,96.6,4,**,**,**,**
+736,"Morgan County, Alabama",1103,No,60.5,54.9,66.5,88,stable,-2.1,-4.5,0.5
+747,"Perry County, Alabama",1105,No,60.3,43.2,82.7,8,stable,2.1,-0.5,4.8
+751,"Conecuh County, Alabama",1035,No,60.2,45.6,78.6,12,stable,-0.1,-2.3,2.1
+783,"Calhoun County, Alabama",1015,No,59.9,54.3,65.9,86,falling,-4.1,-7.2,-0.8
+784,"Blount County, Alabama",1009,No,59.9,52,68.6,43,falling,-1.6,-2.5,-0.6
+801,"Cleburne County, Alabama",1029,No,59.7,45.2,77.9,12,rising,2.6,0.4,4.9
+828,"Autauga County, Alabama",1001,No,59.3,50.6,69.2,34,falling,-1.5,-2.6,-0.3
+856,"Wrangell-Petersburg Census Area, Alaska",2280,No,59,35.3,93.3,4,**,**,**,**
+894,"Randolph County, Alabama",1111,No,58.5,46.8,72.4,18,stable,1.2,-0.4,2.8
+916,"Fayette County, Alabama",1057,No,58.3,45.2,74.5,14,stable,-0.7,-2.2,0.9
+917,"Bethel Census Area, Alaska",2050,No,58.3,36.6,86.8,5,**,**,**,**
+943,"Hale County, Alabama",1065,No,57.8,43.6,75.5,11,stable,-0.5,-2.5,1.5
+965,"Pickens County, Alabama",1107,No,57.5,45.4,72.1,16,stable,0.3,-1.4,2.1
+987,"Lee County, Alabama",1081,No,57.1,51,63.7,66,stable,0.9,-0.2,2
+1016,"Lauderdale County, Alabama",1077,No,56.8,51,63.1,71,stable,0.3,-0.5,1.1
+1067,"Henry County, Alabama",1067,No,56.3,43.6,71.9,14,stable,-1.1,-2.4,0.4
+1068,"DeKalb County, Alabama",1049,No,56.3,49.2,64.2,46,stable,-8.2,-18.4,3.2
+1095,"Houston County, Alabama",1069,No,56.1,50.3,62.4,69,falling,-1.1,-1.7,-0.5
+1115,"Limestone County, Alabama",1083,No,55.9,49.1,63.4,51,falling,-4,-7.7,-0.2
+1175,"Coffee County, Alabama",1031,No,55.1,46.9,64.3,33,falling,-1.1,-2.1,-0.2
+1217,"Tallapoosa County, Alabama",1123,No,54.5,46.2,64,32,falling,-3.8,-7,-0.5
+1227,"Tuscaloosa County, Alabama",1125,No,54.4,49.7,59.5,100,falling,-1.1,-1.8,-0.4
+1272,"Cherokee County, Alabama",1019,No,54,43.8,66.1,21,stable,0.6,-1.2,2.5
+1273,"Fairbanks North Star, Alaska",2090,No,54,45.1,64,31,stable,-1.1,-2.6,0.5
+1285,"Matanuska-Susitna Borough, Alaska",2170,No,53.9,45.7,63.1,37,stable,-0.8,-2,0.5
+1365,"Monroe County, Alabama",1099,No,52.9,41.9,66.3,16,stable,-0.6,-2,0.9
+1400,"Butler County, Alabama",1013,No,52.6,41.5,66.2,15,stable,0.1,-1.6,1.7
+1456,"Marengo County, Alabama",1091,No,51.9,40.6,65.6,15,falling,-1.5,-2.5,-0.4
+1480,"Marion County, Alabama",1093,No,51.7,42.4,62.6,23,falling,-5.8,-8.6,-2.9
+1498,"Jefferson County, Alabama",1073,No,51.5,49.2,53.9,381,falling,-1,-1.4,-0.7
+1540,"Sumter County, Alabama",1119,No,51,37,69.2,9,stable,-0.8,-2.9,1.3
+1582,"Madison County, Alabama",1089,No,50.4,47.1,53.8,179,falling,-1.8,-3,-0.5
+1610,"Kenai Peninsula Borough, Alaska",2122,No,50.1,41.6,59.7,28,falling,-3,-4.4,-1.6
+1629,"Montgomery County, Alabama",1101,No,49.9,45.9,54.2,117,falling,-1.3,-1.9,-0.7
+1775,"Baldwin County, Alabama",1003,No,48,44.2,52,121,falling,-1.7,-2.2,-1.2
+1830,"Crenshaw County, Alabama",1041,No,47.3,34.1,64.3,9,falling,-2.1,-3.6,-0.6
+1831,"Shelby County, Alabama",1117,No,47.3,42.9,52.1,88,stable,-0.9,-1.9,0.1
+1832,"Anchorage Borough, Alaska",2020,No,47.3,42.9,52,96,falling,-1.2,-1.8,-0.6
+1835,"Pike County, Alabama",1109,No,47.2,37.4,58.8,16,stable,-1.8,-3.8,0.1
+2083,"Lowndes County, Alabama",1085,Yes,44,29.5,63.6,6,stable,0.7,-2.2,3.7
+2093,"Clarke County, Alabama",1025,Yes,43.9,34.3,55.5,15,falling,-1.2,-2.4,0
+2156,"Choctaw County, Alabama",1023,Yes,43,31,58.8,9,stable,-1.6,-3.7,0.4
+2282,"Macon County, Alabama",1087,Yes,41.1,30.5,54.5,10,stable,-13.8,-27.2,2.2
+2373,"Sitka Borough, Alaska",2220,Yes,39.6,22.7,64,3,**,**,**,**
+2597,"Greene County, Alabama",1063,Yes,34.5,21.7,53.3,5,stable,-1,-3.8,1.8
+2604,"Juneau Borough, Alaska",2110,Yes,34.4,24,47.6,8,falling,-3.7,-5.5,-1.8
+2724,"Bullock County, Alabama",1011,Yes,29.7,17.8,47.1,4,stable,-1.2,-3.8,1.3
+2816,"Aleutians East Borough, Alaska<sup>3</sup>",2013,*,*,*,*,*,**,**,**,**
+2817,"Aleutians West Census Area, Alaska<sup>3</sup>",2016,*,*,*,*,*,**,**,**,**
+2843,"Bristol Bay Borough, Alaska",2060,*,*,*,*,*,**,**,**,**
+2888,"Denali, Alaska",2068,*,*,*,*,*,**,**,**,**
+2893,"Dillingham Census Area, Alaska<sup>3</sup>",2070,*,*,*,*,*,**,**,**,**
+2942,"Haines Borough, Alaska",2100,*,*,*,*,*,**,**,**,**
+2993,"Lake and Peninsula Borough, Alaska<sup>3</sup>",2164,*,*,*,*,*,**,**,**,**
+3037,"Northwest Arctic Borough, Alaska",2188,*,*,*,*,*,**,**,**,**
+3059,"Prince of Wales-Outer Ketchikan, Alaska",2201,*,*,*,*,*,**,**,**,**
+3090,"Skagway Hoonah Angoon Census Area, Alaska<sup>3</sup>",2232,*,*,*,*,*,**,**,**,**
+3092,"Southeast Fairbanks Census Area, Alaska",2240,*,*,*,*,*,**,**,**,**
+3122,"Wade Hampton Census Area, Alaska",2270,*,*,*,*,*,**,**,**,**
+3136,"Yakutat City and Borough, Alaska<sup>3</sup>",2282,*,*,*,*,*,**,**,**,**
+3137,"Yukon-Koyukuk Census Area, Alaska",2290,*,*,*,*,*,**,**,**,**
